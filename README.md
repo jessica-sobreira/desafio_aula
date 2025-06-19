@@ -4,6 +4,8 @@ Este código HTML cria uma página web com várias seções, incluindo um **cabe
 
 ---
 
+![screencapture-jessica-sobreira-github-io-desafio-aula-2025-06-19-15_22_37](https://github.com/user-attachments/assets/d8d3ed72-9348-4b3d-a938-263949de42ba)
+
 
 ## Estilos
 
