@@ -5,9 +5,6 @@ Este código HTML cria uma página web com várias seções, incluindo um **cabe
 ---
 
 
-![screencapture-127-0-0-1-5500-index-html-2025-06-19-15_20_06](https://github.com/user-attachments/assets/49ea566d-db8c-42de-b5e3-6a57ce712ba6)
-
-
 ## Estilos
 
 * **Tailwind CSS:** A página utiliza a biblioteca **Tailwind CSS** para a estilização, agilizando o desenvolvimento.
